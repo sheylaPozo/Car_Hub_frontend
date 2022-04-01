@@ -60,7 +60,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eroiyo/Recipe-app/issues)
+Feel free to check the [issues page](https://github.com/m05e5/Car_hub_frontend/issues)
 
 ## Show your support
 
@@ -69,4 +69,3 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
-
