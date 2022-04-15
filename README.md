@@ -10,6 +10,7 @@ This is the the CarHub page, to look at the api click [here](https://github.com/
 - CSS
 - Javascript
 - React
+- Redux
 - eslint
 
 ## Available Scripts
